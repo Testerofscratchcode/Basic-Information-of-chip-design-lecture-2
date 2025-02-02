@@ -6,6 +6,7 @@ Current and Electricity
 •	Flowing Charge is called Current.
 
 Difference between Abrupt or Controlled flow of energy.
+
 ![Screenshot 2025-02-02 110825](https://github.com/user-attachments/assets/2a8698b3-8942-428d-988c-c2dd94b959f2)
 
 ![Screenshot 2025-02-02 110834](https://github.com/user-attachments/assets/3a1b37b3-0a8a-4381-a0c4-9e97656ae52e)
