@@ -2,7 +2,7 @@
 Lecture 2:- Introduction To Basic Physics and Electricity  
 
 Current and Electricity
-•	Stored Charge is called Battery. 
+•	Stored Charge is called Battery.
 •	Flowing Charge is called Current.
 
 Difference between Abrupt or Controlled flow of energy.
